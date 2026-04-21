@@ -7,8 +7,6 @@
 <p align="center">
   <a href="https://panhanetwork.net">Website</a>
   ·
-  <a href="https://panharadius.com/client">Member Area</a>
-  ·
   <a href="mailto:noc@panhanetwork.net">noc@panhanetwork.net</a>
 </p>
 
@@ -50,11 +48,3 @@ If you want to check availability in your location, contact us through WhatsApp 
 - Email: noc@panhanetwork.net
 - Phone/WhatsApp: +62 888-0976-9228
 - Address: Jln. Serang - Pandeglang KM. No.12, Kp. Siluwung RT 001/005, Desa Sukamanah, Kec. Baros, Kab. Serang, Banten 42173
-
-## Follow Us
-
-- Facebook: https://www.facebook.com/panhanetwork
-- Instagram: https://www.instagram.com/panhanetwork.id
-# .github
-# panhanetwork-net
-# .github
