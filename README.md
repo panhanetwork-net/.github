@@ -45,6 +45,6 @@ If you want to check availability in your location, contact us through WhatsApp 
 ## Contact
 
 - Website: https://panhanetwork.net
-- Email: noc@panhanetwork.net
+- Email: panhanetworksolution@gmail.com
 - Phone/WhatsApp: +62 888-0976-9228
 - Address: Jln. Serang - Pandeglang KM. No.12, Kp. Siluwung RT 001/005, Desa Sukamanah, Kec. Baros, Kab. Serang, Banten 42173
